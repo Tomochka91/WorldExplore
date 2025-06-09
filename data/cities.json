@@ -1,0 +1,268 @@
+{
+  "cities": [
+    {
+      "id": "3844",
+      "cityName": "Prague",
+      "country": "Czechia",
+      "emoji": "🇨🇿",
+      "date": "2025-01-06T07:46:43.000Z",
+      "notes": "",
+      "position": {
+        "lat": "50.12057809796008",
+        "lng": "14.655761718750002"
+      }
+    },
+    {
+      "id": "ee1e",
+      "cityName": "Rome",
+      "country": "Italy",
+      "emoji": "🇮🇹",
+      "date": "2023-04-07T08:15:38.000Z",
+      "notes": "Amazing",
+      "position": {
+        "lat": "41.89001042401827",
+        "lng": "12.496948242187502"
+      }
+    },
+    {
+      "id": "6259",
+      "cityName": "Florence",
+      "country": "Italy",
+      "emoji": "🇮🇹",
+      "date": "2019-08-10T08:17:05.000Z",
+      "notes": "Stendal Syndrom <3",
+      "position": {
+        "lat": "43.76117633310127",
+        "lng": "11.263732910156252"
+      }
+    },
+    {
+      "id": "25b1",
+      "cityName": "Milan",
+      "country": "Italy",
+      "emoji": "🇮🇹",
+      "date": "2023-04-02T08:17:56.000Z",
+      "notes": "Good memories",
+      "position": {
+        "lat": "45.460130637921004",
+        "lng": "9.195556640625002"
+      }
+    },
+    {
+      "id": "5858",
+      "cityName": "Como",
+      "country": "Italy",
+      "emoji": "🇮🇹",
+      "date": "2023-04-05T08:18:29.000Z",
+      "notes": "So beautiful place",
+      "position": {
+        "lat": "45.805828539928356",
+        "lng": "9.091186523437502"
+      }
+    },
+    {
+      "id": "205e",
+      "cityName": "Venice",
+      "country": "Italy",
+      "emoji": "🇮🇹",
+      "date": "2019-08-09T08:19:14.000Z",
+      "notes": "The one and only",
+      "position": {
+        "lat": "45.42544355958045",
+        "lng": "12.340393066406252"
+      }
+    },
+    {
+      "id": "93c6",
+      "cityName": "Verona",
+      "country": "Italy",
+      "emoji": "🇮🇹",
+      "date": "2019-08-11T08:19:52.000Z",
+      "notes": "City of love",
+      "position": {
+        "lat": "45.433153642271414",
+        "lng": "10.994567871093752"
+      }
+    },
+    {
+      "id": "63a9",
+      "cityName": "Dresden",
+      "country": "Germany",
+      "emoji": "🇩🇪",
+      "date": "2025-01-09T08:20:25.000Z",
+      "notes": "Sehr gut",
+      "position": {
+        "lat": "51.04484764446179",
+        "lng": "13.760375976562502"
+      }
+    },
+    {
+      "id": "b187",
+      "cityName": "Karlovy Vary",
+      "country": "Czechia",
+      "emoji": "🇨🇿",
+      "date": "2025-01-08T08:21:18.000Z",
+      "notes": "Pure mineral water",
+      "position": {
+        "lat": "50.21557967003726",
+        "lng": "12.886962890625002"
+      }
+    },
+    {
+      "id": "2f4a",
+      "cityName": "Split",
+      "country": "Croatia",
+      "emoji": "🇭🇷",
+      "date": "2024-08-09T08:22:03.000Z",
+      "notes": "<3",
+      "position": {
+        "lat": "43.51071299084373",
+        "lng": "16.44790649414063"
+      }
+    },
+    {
+      "id": "97ed",
+      "cityName": "Trogir",
+      "country": "Croatia",
+      "emoji": "🇭🇷",
+      "date": "2024-08-09T08:22:29.000Z",
+      "notes": "<3",
+      "position": {
+        "lat": "43.51320287282706",
+        "lng": "16.249465942382816"
+      }
+    },
+    {
+      "id": "8c66",
+      "cityName": "Omis",
+      "country": "Croatia",
+      "emoji": "🇭🇷",
+      "date": "2024-08-10T21:00:00.000Z",
+      "notes": "<3",
+      "position": {
+        "lat": "43.44232562133645",
+        "lng": "16.692867279052738"
+      }
+    },
+    {
+      "id": "0e24",
+      "cityName": "Kotor",
+      "country": "Montenegro",
+      "emoji": "🇲🇪",
+      "date": "2013-07-07T07:23:30.000Z",
+      "notes": "<3",
+      "position": {
+        "lat": "42.42345651793833",
+        "lng": "18.770141601562504"
+      }
+    },
+    {
+      "id": "a36b",
+      "cityName": "Budva",
+      "country": "Montenegro",
+      "emoji": "🇲🇪",
+      "date": "2013-07-08T20:00:00.000Z",
+      "notes": "<3",
+      "position": {
+        "lat": "42.28442103567816",
+        "lng": "18.84567260742188"
+      }
+    },
+    {
+      "id": "f0f2",
+      "cityName": "Zabljak",
+      "country": "Montenegro",
+      "emoji": "🇲🇪",
+      "date": "2013-07-10T07:24:49.000Z",
+      "notes": "<3",
+      "position": {
+        "lat": "43.15454170137488",
+        "lng": "19.11955833435059"
+      }
+    },
+    {
+      "id": "6241",
+      "cityName": "Heraklion Municipality",
+      "country": "Greece",
+      "emoji": "🇬🇷",
+      "date": "2021-08-09T08:25:56.000Z",
+      "notes": "<3",
+      "position": {
+        "lat": "35.33851401688866",
+        "lng": "25.133628845214847"
+      }
+    },
+    {
+      "id": "ce41",
+      "cityName": "Dimos Rethymno",
+      "country": "Greece",
+      "emoji": "🇬🇷",
+      "date": "2021-08-09T21:00:00.000Z",
+      "notes": "<3",
+      "position": {
+        "lat": "35.367075615591624",
+        "lng": "24.474964141845707"
+      }
+    },
+    {
+      "id": "96e1",
+      "cityName": "Kissamos",
+      "country": "Greece",
+      "emoji": "🇬🇷",
+      "date": "2021-09-11T21:00:00.000Z",
+      "notes": "",
+      "position": {
+        "lat": "35.58305949119737",
+        "lng": "23.58661651611328"
+      }
+    },
+    {
+      "id": "fcfb",
+      "cityName": "Istanbul",
+      "country": "Turkiye",
+      "emoji": "🇹🇷",
+      "date": "2022-08-02T08:27:46.000Z",
+      "notes": "<3",
+      "position": {
+        "lat": "41.00373905329032",
+        "lng": "28.965454101562504"
+      }
+    },
+    {
+      "id": "5cea",
+      "cityName": "Bodrum",
+      "country": "Turkiye",
+      "emoji": "🇹🇷",
+      "date": "2022-08-09T08:28:06.000Z",
+      "notes": "<3",
+      "position": {
+        "lat": "37.03106210011894",
+        "lng": "27.435607910156254"
+      }
+    },
+    {
+      "id": "f62b",
+      "cityName": "Marmaris Korfezi",
+      "country": "Turkiye",
+      "emoji": "🇹🇷",
+      "date": "2023-08-09T08:28:17.000Z",
+      "notes": "<3",
+      "position": {
+        "lat": "36.846658706232816",
+        "lng": "28.273315429687504"
+      }
+    },
+    {
+      "id": "b1d2",
+      "cityName": "Fethiye",
+      "country": "Turkiye",
+      "emoji": "🇹🇷",
+      "date": "2022-08-10T08:28:36.000Z",
+      "notes": "<3",
+      "position": {
+        "lat": "36.61773216000592",
+        "lng": "29.119262695312504"
+      }
+    }
+  ]
+}
