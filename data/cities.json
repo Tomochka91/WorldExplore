@@ -193,18 +193,6 @@
       }
     },
     {
-      "id": "ce41",
-      "cityName": "Dimos Rethymno",
-      "country": "Greece",
-      "emoji": "🇬🇷",
-      "date": "2021-08-09T21:00:00.000Z",
-      "notes": "<3",
-      "position": {
-        "lat": "35.367075615591624",
-        "lng": "24.474964141845707"
-      }
-    },
-    {
       "id": "96e1",
       "cityName": "Kissamos",
       "country": "Greece",
@@ -262,6 +250,18 @@
       "position": {
         "lat": "36.61773216000592",
         "lng": "29.119262695312504"
+      }
+    },
+    {
+      "id": "bd91",
+      "cityName": "Warsaw",
+      "country": "Poland",
+      "emoji": "🇵🇱",
+      "date": "2025-06-09T09:44:00.318Z",
+      "notes": "",
+      "position": {
+        "lat": "52.16045455774706",
+        "lng": "21.071777343750004"
       }
     }
   ]
